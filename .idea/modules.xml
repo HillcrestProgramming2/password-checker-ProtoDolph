@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/passwordChecker/passwordChecker.iml" filepath="$PROJECT_DIR$/passwordChecker/passwordChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passwordStrengthChecker/passwordStrengthChecker.iml" filepath="$PROJECT_DIR$/passwordStrengthChecker/passwordStrengthChecker.iml" />
     </modules>
   </component>
 </project>
